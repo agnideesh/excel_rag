@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://talktoexcel.com/sitemap.xml 
